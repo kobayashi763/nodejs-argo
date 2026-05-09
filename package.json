@@ -7,8 +7,7 @@
   "repository": "",
   "license": "MIT",
   "private": false,
-"scripts": {
-    "build": "node -v",
+  "scripts": {
     "dev": "node index.js",
     "start": "node index.js"
   },
